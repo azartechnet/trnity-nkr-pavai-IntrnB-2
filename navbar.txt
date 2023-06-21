@@ -1,0 +1,20 @@
+   <!--NavBar Start-->
+        <center><h2>EKartManagementSystem</h2></center>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+
+                <div class="navbar-header">
+                   <a class="navbar-brand" href="">E-Kart</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="">Home</a></li>
+                    <li><a href="">AboutUS</a></li>
+                    <li><a href="">AddProduct</a></li>
+                    <li><a href="">Login</a></li>
+                    <li><a href="">Register</a></li>
+                    <li><a href="">ViewDetails</a></li>
+                </ul>
+
+            </div>
+        </nav>
+        <!--NavEnd-->
